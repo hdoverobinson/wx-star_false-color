@@ -12,4 +12,4 @@ USA-Satcom's XRIT ingestor: https://usa-satcom.com/xrit-decoder-for-goes-satelli
 Files for other application-specific false color implementations will be placed in their own subdirectories:  
 goestools by Pieter Noordhuis: https://github.com/pietern/goestools  
 
-Please note the false color lookup tables here are meant for GOES-R ABI CMIPs via HRIT and not for the GOES-N series of satellites.
+Please note the false color files here are meant for GOES-R ABI CMIPs via HRIT and not for the GOES-N series of satellites.
