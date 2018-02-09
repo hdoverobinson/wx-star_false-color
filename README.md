@@ -9,7 +9,7 @@ Files in the root directory are usable by:
 The Open Satellite Project's goesdump: https://github.com/opensatelliteproject/goesdump  
 USA-Satcom's XRIT ingestor: https://usa-satcom.com/xrit-decoder-for-goes-satellite/  
 
-Files for other application-specific false-color implementations will be placed in their own subdirectories:  
+Files for other application-specific false color implementations will be placed in their own subdirectories:  
 goestools by Pieter Noordhuis: https://github.com/pietern/goestools  
 
 Please note the false color lookup tables here are meant for GOES-R ABI CMIPs via HRIT and not for the GOES-N series of satellites.
